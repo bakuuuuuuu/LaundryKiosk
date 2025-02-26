@@ -17,7 +17,7 @@
 | IDE | Visual Studio 2022 |
 | Language | C# |
 | FrameWork | WinForms |
-| DataBase | MySQL |
+| DataBase | MySQL 8.0 |
 
 # **Features**
 
