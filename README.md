@@ -54,16 +54,16 @@
 
   <tr height="500" width="500">
      <td> 실행 화면 </td>
-    <td><img src="" alt="시작 화면" width=800 ></td>
-    <td><img src="" alt="회원 가입" width=800 ></td>
-    <td><img src="" alt="로그인" width=800 ></td>
-    <td><img src="" alt="메인 화면" width=800 ></td>
-    <td><img src="" alt="금액 충전" width=500 ></td>
+    <td><img src="images/start.png" alt="시작 화면" width=800 ></td>
+    <td><img src="images/sign-up.png" alt="회원 가입" width=800 ></td>
+    <td><img src="images/login.png" alt="로그인" width=800 ></td>
+    <td><img src="images/main.png" alt="메인 화면" width=800 ></td>
+    <td><img src="images/money.png" alt="금액 충전" width=500 ></td>
     <td>
-      <img src="" alt="세탁기 선택"  width=500 >
+      <img src="images/select-laundry.png" alt="세탁기 선택"  width=500 >
     </td>
    <td>
-     <img src="" alt="세탁 메뉴 선택"  width=500 >
+     <img src="images/select-menu.png" alt="세탁 메뉴 선택"  width=500 >
    </td>
   </tr>
 </table>
