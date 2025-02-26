@@ -25,7 +25,7 @@
 # Docs 
 
 <br>
-<a href="https://nonchalant-practice-d82.notion.site/C-WinForms-1a643edb387c801b8c89e3423eaa64ca?pvs=4"> **📒 Notion**
+<a href="https://nonchalant-practice-d82.notion.site/C-WinForms-1a643edb387c801b8c89e3423eaa64ca?pvs=4"> 📒 Notion
 </a> 
 
 
@@ -42,31 +42,45 @@
 
 <table>
   <tr>
-    <th> 기능 </th>
-    <th>장바구니 담기</th>
-    <th>장바구니 상품 교환</th>
-    <th>상품 교환하기</th>
-    <th>상품 반품하기</th>
-    <th>상품 결제하기</th>
-    <th colspan=2>관리자 모드</th>
+    <td>장바구니 담기</td>
+    <td><img src="images/start.png" alt="시작 화면" width="800"></td>
   </tr>
-
-
-  <tr height="500" width="500">
-     <td> 실행 화면 </td>
-    <td><img src="images/start.png" alt="시작 화면" width=800 ></td>
-    <td><img src="images/sign-up.png" alt="회원 가입" width=800 ></td>
-    <td><img src="images/login.png" alt="로그인" width=800 ></td>
-    <td><img src="images/main.png" alt="메인 화면" width=800 ></td>
-    <td><img src="images/money.png" alt="금액 충전" width=500 ></td>
-    <td>
-      <img src="images/select-laundry.png" alt="세탁기 선택"  width=500 >
-    </td>
-   <td>
-     <img src="images/select-menu.png" alt="세탁 메뉴 선택"  width=500 >
-   </td>
+  <tr>
+    <td>장바구니 상품 교환</td>
+    <td><img src="images/sign-up.png" alt="회원 가입" width="800"></td>
+  </tr>
+  <tr>
+    <td>상품 교환하기</td>
+    <td><img src="images/login.png" alt="로그인" width="800"></td>
+  </tr>
+  <tr>
+    <td>상품 반품하기</td>
+    <td><img src="images/main.png" alt="메인 화면" width="800"></td>
+  </tr>
+  <tr>
+    <td>상품 결제하기</td>
+    <td><img src="images/money.png" alt="금액 충전" width="800"></td>
+  </tr>
+  <tr>
+    <td>세탁기 선택</td>
+    <td><img src="images/select-laundry.png" alt="세탁기 선택" width="800"></td>
+  </tr>
+  <tr>
+    <td>세탁 메뉴 선택</td>
+    <td><img src="images/select-menu.png" alt="세탁 메뉴 선택" width="800"></td>
   </tr>
 </table>
+
+
+
+# 시연 영상
+<p align="center">
+  <a href="https://youtu.be/rZvM_ZLy5b4?si=LP0uG6EQCRlyh9xS">
+    <img src="images/start.png" alt="시연 영상 보기">
+  </a>
+</p>
+
+
 
 
 
